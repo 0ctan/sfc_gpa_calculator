@@ -12,7 +12,7 @@ SFC生用のGPA計算ツールです。進級要件や、卒業要件までの�
 16年以前の入学者用`$ node gradeUtil_for16s.js record.txt`  
 17年以降の入学者用`$ node gradeUtil_after17.js record.txt`
 
-## ライセンス関係
+## License
 - コピーライト: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - ソース元: [grade-util](https://gent.am/grade-util.html)
 - 元の作成者: [gentam](https://github.com/gentam)
